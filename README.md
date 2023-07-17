@@ -1,5 +1,7 @@
-OMOP CONCEPT EMBEDDING
+Generic medical concept embedding and time decay for diverse patient outcome prediction tasks
 ======================
+
+[iScience, 2022, 25(9): 104880](https://www.sciencedirect.com/science/article/pii/S258900422201152X)
 
 # 1. Prerequisites and Setup
 
